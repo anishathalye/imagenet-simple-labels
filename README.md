@@ -1,4 +1,4 @@
-# Simpler human-readable labels for ImageNet
+# Simpler human-readable labels for ImageNet [[![Build Status](https://travis-ci.com/anishathalye/imagenet-simple-labels.svg?branch=master)](https://travis-ci.com/anishathalye/imagenet-simple-labels)]
 
 The file [imagenet-simple-labels.json](imagenet-simple-labels.json) contains
 simple, short, human-readable labels for the 1000 [ImageNet] classes.
@@ -38,9 +38,11 @@ The table contains hand-picked examples to illustrate differences.
 | --- | --- | --- | --- |
 | 87 | African grey, African gray, Psittacus erithacus | African_grey | grey parrot |
 | 97 | drake | drake | duck |
+| 134 | crane | crane | crane (bird) |
 | 156 | Blenheim spaniel | Blenheim_spaniel | King Charles Spaniel |
 | 383 | Madagascar cat, ring-tailed lemur, Lemur catta | Madagascar_cat | ring-tailed lemur |
 | 439 | bearskin, busby, shako | bearskin | military cap |
+| 517 | crane | crane | crane (machine) |
 | 628 | liner, ocean liner | liner | ocean liner |
 | 667 | mortarboard | mortarboard | square academic cap |
 | 699 | panpipe, pandean pipe, syrinx | panpipe | pan flute |
