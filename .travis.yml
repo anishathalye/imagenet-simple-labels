@@ -1,4 +1,0 @@
-language: node_js
-node_js: node
-install: npm install jsonlint -g
-script: jsonlint -q -V schema.json imagenet-simple-labels.json

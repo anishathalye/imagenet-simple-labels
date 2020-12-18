@@ -1,4 +1,5 @@
-# Simpler human-readable labels for ImageNet [[![Build Status](https://travis-ci.com/anishathalye/imagenet-simple-labels.svg?branch=master)](https://travis-ci.com/anishathalye/imagenet-simple-labels)]
+# Simpler human-readable labels for ImageNet [![Build Status](https://github.com/anishathalye/imagenet-simple-labels/workflows/CI/badge.svg)](https://github.com/anishathalye/imagenet-simple-labels/actions?query=workflow%3ACI)
+
 
 The file [imagenet-simple-labels.json](imagenet-simple-labels.json) contains
 simple, short, human-readable labels for the 1000 [ImageNet] classes.
