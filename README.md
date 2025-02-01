@@ -1,4 +1,4 @@
-# Simpler human-readable labels for ImageNet [![Build Status](https://github.com/anishathalye/imagenet-simple-labels/workflows/CI/badge.svg)](https://github.com/anishathalye/imagenet-simple-labels/actions?query=workflow%3ACI)
+# Simpler human-readable labels for ImageNet [![Build Status](https://github.com/anishathalye/imagenet-simple-labels/actions/workflows/ci.yml/badge.svg)](https://github.com/anishathalye/imagenet-simple-labels/actions/workflows/ci.yml)
 
 
 The file [imagenet-simple-labels.json](imagenet-simple-labels.json) contains
